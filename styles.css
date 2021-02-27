@@ -1,0 +1,23 @@
+body{
+    background-color: #f5f5f5;
+}
+.companyname{    
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+}
+.fa-th {
+    color: gray;
+}
+.fa-square{
+    color: gray;
+}
+.pt-5, .py-5 {
+    padding-top: 5rem !important;
+}
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #dddddd;
+}
+.container, .container-lg, .container-md, .container-sm, .container-xl {
+    max-width: 600px;
+}
