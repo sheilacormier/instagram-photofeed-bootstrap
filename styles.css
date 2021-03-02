@@ -18,6 +18,6 @@ body{
     color: #fff;
     background-color: #dddddd;
 }
-.container, .container-lg, .container-md, .container-sm, .container-xl {
+.container-md {
     max-width: 600px;
 }
